@@ -2,10 +2,25 @@
     --header_height: 60px;
 }
 
+.hw1_section {
+
+}
+
 .hw {
+
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
 
 }
 
 .hwTitle {
+    text-align: center;
+}
+
+.chatBox {
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
 
 }
